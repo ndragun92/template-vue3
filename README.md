@@ -7,6 +7,7 @@ Live preview version [Template](https://template-vue3-ndragun92.vercel.app)
 ## What this starter template contains?
 - Router
 - ESLint + Prettier
+- TailwindCSS
 - Pinia
 - Works with Node 20.x
 
